@@ -1,117 +1,187 @@
-<h1 align="center">Kshitiz Yadav</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,30:1d4ed8,65:0ea5e9,100:22c55e&text=Kshitiz%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Intern%20%7C%20Backend%20Systems%20%7C%20AI%20Systems&descAlignY=58" />
+
 <p align="center">
-  Software Engineering Intern Candidate | Backend Systems | AI Systems | Applied Automation
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+software+that+solves+real+operational+problems;Backend+engineering+%2B+AI+systems+%2B+automation;FastAPI%2C+Django%2C+Python%2C+distributed+workflows;Open+to+Software+Engineering+Internship+opportunities" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kshitiz464">GitHub</a> |
-  <a href="https://www.linkedin.com/in/kshitizyadav464">LinkedIn</a> |
-  <a href="mailto:kshitizyadav464@gmail.com">Email</a>
+  <a href="https://github.com/kshitiz464"><img src="https://img.shields.io/badge/GitHub-kshitiz464-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kshitizyadav464"><img src="https://img.shields.io/badge/LinkedIn-Kshitiz%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kshitizyadav464@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  I build practical software systems that solve real operational problems, from booking sync engines and secure APIs to offline-first apps and AI-powered tooling.
+  <img src="https://komarev.com/ghpvc/?username=kshitiz464&style=flat-square&color=0ea5e9" alt="profile views" />
 </p>
 
----
+## Who I Am
 
-## About Me
+I am a Computer Science student focused on software engineering with real-world depth: async backend systems, AI-assisted products, distributed workflows, reverse engineering, and production-minded automation. I like building software that reduces manual effort, handles failure gracefully, and actually gets used.
 
-- B.Tech CSE student at Govt. Engineering College Ajmer
-- SWE-focused builder with hands-on work across backend engineering, AI systems, automation, and systems programming
-- Interested in production-grade APIs, async systems, distributed workflows, developer tooling, and LLM-powered products
-- Currently looking for Software Engineering Internship opportunities where I can contribute to real products and learn fast
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### What I Work On
+
+- Backend systems with clean APIs and strong foundations
+- Automation for repetitive, operationally painful workflows
+- Applied AI systems beyond toy demos
+- Desktop and local-first product experiences
+- Research-heavy engineering problems
+
+    </td>
+    <td width="50%" valign="top">
+
+### Current Focus
+
+- Software Engineering Internship opportunities
+- FastAPI and Django backend projects
+- LLM-integrated workflows and tooling
+- Systems reliability, logging, and async orchestration
+- Stronger product-grade open source portfolio work
+
+    </td>
+  </tr>
+</table>
+
+## Highlights
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Backend</h3>
+      <p>Built secure APIs, booking sync engines, role-based systems, analytics layers, and offline-first app backends.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI Systems</h3>
+      <p>Worked on MADDPG drone swarm research at DRDO and enjoy integrating LLM workflows into practical tools.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Systems Thinking</h3>
+      <p>Interested in resilience, concurrency, binary parsing, fault tolerance, and engineering around real constraints.</p>
+    </td>
+  </tr>
+</table>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### [CentralDBMS](https://github.com/kshitiz464/CentralDBMS)
+Cross-platform booking synchronization engine and dashboard for sports venues. Designed to prevent double bookings across aggregators with background syncing, operational controls, and unified visibility.
+
+**Stack:** `Python` `FastAPI` `asyncio` `automation`
+
+    </td>
+    <td width="50%" valign="top">
+
+### [HabitFlow](https://github.com/kshitiz464/HabitFlow)
+Offline-first desktop habit tracker combining Python, SQLite, FastAPI, and a clean web-based desktop UI for local productivity workflows.
+
+**Stack:** `Python` `FastAPI` `SQLite` `PyWebView` `JavaScript`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [FinanceAPI-Tracker](https://github.com/kshitiz464/FinanceAPI-Tracker)
+Secure finance backend with JWT auth, RBAC, analytics endpoints, dashboard support, and test coverage using Django REST Framework.
+
+**Stack:** `Django` `DRF` `JWT` `SQLite`
+
+    </td>
+    <td width="50%" valign="top">
+
+### [PrimeTradeAIAssignment](https://github.com/kshitiz464/PrimeTradeAIAssignment)
+Scalable task management API with PostgreSQL, JWT auth, and role-based access control, built with clean modular FastAPI architecture.
+
+**Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [local_doc_qa](https://github.com/kshitiz464/local_doc_qa)
+Local document question-answering workflow for private document interaction using a locally hosted LLM setup.
+
+**Stack:** `Python` `Streamlit` `LLM workflows`
+
+    </td>
+    <td width="50%" valign="top">
+
+### [DecryptorDJI](https://github.com/kshitiz464/DecryptorDJI) / [d_obscuration](https://github.com/kshitiz464/d_obscuration)
+Exploratory work connected to UAV forensics, encrypted flight logs, binary structures, and reverse engineering.
+
+**Stack:** `Python` `binary parsing` `research`
+
+    </td>
+  </tr>
+</table>
 
 ## Experience Snapshot
 
-- Built a cross-platform booking synchronization engine for sports venues, preventing double bookings across Playo and Hudle with fault-tolerant async workflows
-- Worked as an AI Systems Engineering Intern at DRDO, where I helped build a decentralized MADDPG-based drone swarm navigation system
-- Contributed to UAV forensics research by reverse engineering encrypted DJI flight log structures and building streaming parsers for very large binary logs
-- Shipped client-facing web solutions during my software engineering internship at DAZ Media using Azure deployment and collaborative Git workflows
-
-## Selected Projects
-
-### Central Management System
-**Repo:** [CentralDBMS](https://github.com/kshitiz464/CentralDBMS)  
-Automated synchronization engine and unified dashboard for sports facilities listed on multiple booking platforms. Built to reduce double bookings and operational overhead with background syncing, a facility dashboard, and emergency stop controls.
-
-**Tech:** Python, FastAPI, async workflows, browser automation, operations tooling
-
-### HabitFlow
-**Repo:** [HabitFlow](https://github.com/kshitiz464/HabitFlow)  
-Offline-first desktop habit tracker combining Python, FastAPI, SQLite, and a web UI inside a desktop shell. Designed around local-first productivity and clean daily workflows.
-
-**Tech:** Python, FastAPI, SQLite, JavaScript, PyWebView
-
-### Finance Data Processing and Access Control Backend
-**Repo:** [FinanceAPI-Tracker](https://github.com/kshitiz464/FinanceAPI-Tracker)  
-Secure Django REST backend for finance workflows with JWT auth, RBAC, analytics endpoints, dashboard support, API docs, and tests.
-
-**Tech:** Django, Django REST Framework, JWT, SQLite, Chart.js
-
-### Task Management API
-**Repo:** [PrimeTradeAIAssignment](https://github.com/kshitiz464/PrimeTradeAIAssignment)  
-FastAPI + PostgreSQL task management backend with JWT authentication, role-based access control, migration support, and a simple frontend layer.
-
-**Tech:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT
-
-### Local Document QA
-**Repo:** [local_doc_qa](https://github.com/kshitiz464/local_doc_qa)  
-Local document question-answering tool that lets users upload documents and query them through a locally hosted workflow.
-
-**Tech:** Python, Streamlit, local LLM workflows
-
-### Research and Reverse Engineering Work
-**Repos:** [DecryptorDJI](https://github.com/kshitiz464/DecryptorDJI), [d_obscuration](https://github.com/kshitiz464/d_obscuration)  
-Work connected to UAV forensics, binary log analysis, and reverse-engineering-driven experimentation.
-
-## Repository Map
-
-Here is how my GitHub is structured:
-
-- **Production and applied builds:** `CentralDBMS`, `HabitFlow`, `FinanceAPI-Tracker`, `PrimeTradeAIAssignment`, `local_doc_qa`
-- **Research and experimentation:** `DecryptorDJI`, `d_obscuration`, `Hackcrux_PHOENIX`
-- **Learning and problem solving:** `DSA`, `LeetCode-DSA`, `CodeChefProblems`, `PythonOOP`
-- **Earlier/full-stack work:** `DazMediaold`, `St.-Nehemiah-Patrick-School`, `A1-Security-Services`, `Projects`
-
-## Tech I Work With
-
 ```text
-Languages:      Python, C++, JavaScript, SQL
-Backend:        FastAPI, Django REST Framework, REST APIs, system design
-AI / ML:        PyTorch, MADDPG, LLM API integration, applied AI systems
-Data / Storage: SQLite, PostgreSQL, Firebase, Supabase
-Systems:        asyncio, Docker, Linux, binary parsing, thread-safe workflows
-Tools:          Git, Jira, Azure, Firebase
+DRDO AI Systems Engineering Intern
+Built a decentralized MADDPG-based drone swarm system with curriculum learning.
+
+Freelance Software Engineering
+Engineered a booking sync engine for sports venues to eliminate double-booking conflicts.
+
+UAV Forensics Research Assistant
+Worked on encrypted DJI flight log parsing and reverse-engineering-heavy forensic workflows.
+
+DAZ Media Software Engineering Intern
+Shipped production-facing client web solutions and handled deployment on Azure.
 ```
 
-## What I Like Building
-
-- Backend systems that deal with real-world constraints
-- Automation that removes repetitive manual work
-- AI-assisted products that are useful beyond demos
-- Systems where reliability, logging, and failure handling actually matter
-
-## GitHub Stats
+## Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kshitiz464&show_icons=true&theme=default&hide_border=true" alt="Kshitiz GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz464&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,fastapi,django,postgres,sqlite,firebase,supabase,docker,linux,git,azure&perline=7" alt="Tech stack icons" />
+  </a>
 </p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kshitiz464&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz464&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitiz464&theme=transparent&hide_border=true&ring=38bdf8&fire=22c55e&currStreakLabel=38bdf8" alt="GitHub streak" />
+</p>
+
+## Repo Landscape
+
+I use my GitHub in layers instead of treating every repo the same:
+
+- **Best product and systems work:** `CentralDBMS`, `HabitFlow`, `FinanceAPI-Tracker`, `PrimeTradeAIAssignment`, `local_doc_qa`
+- **Research and experimentation:** `DecryptorDJI`, `d_obscuration`, `Hackcrux_PHOENIX`
+- **Problem solving and fundamentals:** `DSA`, `LeetCode-DSA`, `CodeChefProblems`, `PythonOOP`
+- **Earlier builds and broader project work:** `DazMediaold`, `St.-Nehemiah-Patrick-School`, `A1-Security-Services`, `Projects`
 
 ## Open To
 
 - Software Engineering Intern roles
 - Backend engineering internships
-- AI systems and applied ML internship opportunities
-- Collaboration on meaningful developer tools or automation-heavy products
+- AI systems and applied ML opportunities
+- Building useful tools with strong engineering depth
 
-## Connect
+## Connect With Me
 
-- Email: `kshitizyadav464@gmail.com`
-- LinkedIn: [kshitizyadav464](https://www.linkedin.com/in/kshitizyadav464)
-- GitHub: [kshitiz464](https://github.com/kshitiz464)
+<p align="center">
+  <a href="mailto:kshitizyadav464@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/kshitizyadav464">LinkedIn</a> |
+  <a href="https://github.com/kshitiz464">GitHub</a>
+</p>
 
----
-
-If you are building software that needs strong backend thinking, practical automation, or AI integration with real product value, I would love to connect.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,30:1d4ed8,65:0ea5e9,100:22c55e" />
