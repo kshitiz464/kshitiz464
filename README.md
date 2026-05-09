@@ -123,8 +123,9 @@ Shipped production-facing client web solutions and handled deployment on Azure.
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kshitiz464&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz464&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1" alt="Top languages" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitiz464&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitiz464&theme=github_dark" alt="Top languages" />
+
 </p>
 
 <p align="center">
