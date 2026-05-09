@@ -20,10 +20,6 @@
 
 I am a Computer Science student focused on software engineering with real-world depth: async backend systems, AI-assisted products, distributed workflows, reverse engineering, and production-minded automation. I like building software that reduces manual effort, handles failure gracefully, and actually gets used.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### What I Work On
 
 - Backend systems with clean APIs and strong foundations
@@ -32,9 +28,6 @@ I am a Computer Science student focused on software engineering with real-world 
 - Desktop and local-first product experiences
 - Research-heavy engineering problems
 
-    </td>
-    <td width="50%" valign="top">
-
 ### Current Focus
 
 - Software Engineering Internship opportunities
@@ -42,10 +35,6 @@ I am a Computer Science student focused on software engineering with real-world 
 - LLM-integrated workflows and tooling
 - Systems reliability, logging, and async orchestration
 - Stronger product-grade open source portfolio work
-
-    </td>
-  </tr>
-</table>
 
 ## Highlights
 
@@ -68,62 +57,29 @@ I am a Computer Science student focused on software engineering with real-world 
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### [CentralDBMS](https://github.com/kshitiz464/CentralDBMS)
-Cross-platform booking synchronization engine and dashboard for sports venues. Designed to prevent double bookings across aggregators with background syncing, operational controls, and unified visibility.
-
+Cross-platform booking synchronization engine and dashboard for sports venues. Designed to prevent double bookings across aggregators with background syncing, operational controls, and unified visibility.  
 **Stack:** `Python` `FastAPI` `asyncio` `automation`
 
-    </td>
-    <td width="50%" valign="top">
-
 ### [HabitFlow](https://github.com/kshitiz464/HabitFlow)
-Offline-first desktop habit tracker combining Python, SQLite, FastAPI, and a clean web-based desktop UI for local productivity workflows.
-
+Offline-first desktop habit tracker combining Python, SQLite, FastAPI, and a clean web-based desktop UI for local productivity workflows.  
 **Stack:** `Python` `FastAPI` `SQLite` `PyWebView` `JavaScript`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
 ### [FinanceAPI-Tracker](https://github.com/kshitiz464/FinanceAPI-Tracker)
-Secure finance backend with JWT auth, RBAC, analytics endpoints, dashboard support, and test coverage using Django REST Framework.
-
+Secure finance backend with JWT auth, RBAC, analytics endpoints, dashboard support, and test coverage using Django REST Framework.  
 **Stack:** `Django` `DRF` `JWT` `SQLite`
 
-    </td>
-    <td width="50%" valign="top">
-
 ### [PrimeTradeAIAssignment](https://github.com/kshitiz464/PrimeTradeAIAssignment)
-Scalable task management API with PostgreSQL, JWT auth, and role-based access control, built with clean modular FastAPI architecture.
-
+Scalable task management API with PostgreSQL, JWT auth, and role-based access control, built with clean modular FastAPI architecture.  
 **Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
 ### [local_doc_qa](https://github.com/kshitiz464/local_doc_qa)
-Local document question-answering workflow for private document interaction using a locally hosted LLM setup.
-
+Local document question-answering workflow for private document interaction using a locally hosted LLM setup.  
 **Stack:** `Python` `Streamlit` `LLM workflows`
 
-    </td>
-    <td width="50%" valign="top">
-
 ### [DecryptorDJI](https://github.com/kshitiz464/DecryptorDJI) / [d_obscuration](https://github.com/kshitiz464/d_obscuration)
-Exploratory work connected to UAV forensics, encrypted flight logs, binary structures, and reverse engineering.
-
+Exploratory work connected to UAV forensics, encrypted flight logs, binary structures, and reverse engineering.  
 **Stack:** `Python` `binary parsing` `research`
-
-    </td>
-  </tr>
-</table>
 
 ## Experience Snapshot
 
