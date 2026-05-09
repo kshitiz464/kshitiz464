@@ -57,29 +57,44 @@ I am a Computer Science student focused on software engineering with real-world 
 
 ## Featured Projects
 
-### [CentralDBMS](https://github.com/kshitiz464/CentralDBMS)
-Cross-platform booking synchronization engine and dashboard for sports venues. Designed to prevent double bookings across aggregators with background syncing, operational controls, and unified visibility.  
-**Stack:** `Python` `FastAPI` `asyncio` `automation`
-
-### [HabitFlow](https://github.com/kshitiz464/HabitFlow)
-Offline-first desktop habit tracker combining Python, SQLite, FastAPI, and a clean web-based desktop UI for local productivity workflows.  
-**Stack:** `Python` `FastAPI` `SQLite` `PyWebView` `JavaScript`
-
-### [FinanceAPI-Tracker](https://github.com/kshitiz464/FinanceAPI-Tracker)
-Secure finance backend with JWT auth, RBAC, analytics endpoints, dashboard support, and test coverage using Django REST Framework.  
-**Stack:** `Django` `DRF` `JWT` `SQLite`
-
-### [PrimeTradeAIAssignment](https://github.com/kshitiz464/PrimeTradeAIAssignment)
-Scalable task management API with PostgreSQL, JWT auth, and role-based access control, built with clean modular FastAPI architecture.  
-**Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic`
-
-### [local_doc_qa](https://github.com/kshitiz464/local_doc_qa)
-Local document question-answering workflow for private document interaction using a locally hosted LLM setup.  
-**Stack:** `Python` `Streamlit` `LLM workflows`
-
-### [DecryptorDJI](https://github.com/kshitiz464/DecryptorDJI) / [d_obscuration](https://github.com/kshitiz464/d_obscuration)
-Exploratory work connected to UAV forensics, encrypted flight logs, binary structures, and reverse engineering.  
-**Stack:** `Python` `binary parsing` `research`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kshitiz464/CentralDBMS">CentralDBMS</a></h3>
+      <p>Cross-platform booking synchronization engine and dashboard for sports venues. Designed to prevent double bookings across aggregators with background syncing, operational controls, and unified visibility.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>FastAPI</code> <code>asyncio</code> <code>automation</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kshitiz464/HabitFlow">HabitFlow</a></h3>
+      <p>Offline-first desktop habit tracker combining Python, SQLite, FastAPI, and a clean web-based desktop UI for local productivity workflows.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>PyWebView</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kshitiz464/FinanceAPI-Tracker">FinanceAPI-Tracker</a></h3>
+      <p>Secure finance backend with JWT auth, RBAC, analytics endpoints, dashboard support, and test coverage using Django REST Framework.</p>
+      <p><strong>Stack:</strong> <code>Django</code> <code>DRF</code> <code>JWT</code> <code>SQLite</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kshitiz464/PrimeTradeAIAssignment">PrimeTradeAIAssignment</a></h3>
+      <p>Scalable task management API with PostgreSQL, JWT auth, and role-based access control, built with clean modular FastAPI architecture.</p>
+      <p><strong>Stack:</strong> <code>FastAPI</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kshitiz464/local_doc_qa">local_doc_qa</a></h3>
+      <p>Local document question-answering workflow for private document interaction using a locally hosted LLM setup.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>Streamlit</code> <code>LLM workflows</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kshitiz464/DecryptorDJI">DecryptorDJI</a> / <a href="https://github.com/kshitiz464/d_obscuration">d_obscuration</a></h3>
+      <p>Exploratory work connected to UAV forensics, encrypted flight logs, binary structures, and reverse engineering.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>binary parsing</code> <code>research</code></p>
+    </td>
+  </tr>
+</table>
 
 ## Experience Snapshot
 
